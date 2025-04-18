@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![](.\运行截图.png)
+![]([.\运行截图.png](https://github.com/BMHX/TikTok-data/blob/main/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png))
 
 ## 使用说明
 
